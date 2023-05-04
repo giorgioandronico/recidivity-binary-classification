@@ -1,1 +1,2 @@
 # recidivity-binary-classification
+**Scikit-learn** was utilized to predict the likelihood of a criminal reoffending, using the COMPAS dataset. **Data cleaning** procedures involved class rebalancing techniques such as SMOTE and filling in null values. Various classical machine learning models were experimented with before ultimately settling on the random forest model, with a **93.5%** accuracy result.
